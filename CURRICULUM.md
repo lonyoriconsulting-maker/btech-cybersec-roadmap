@@ -2,8 +2,6 @@
 
 A living map of project-based learning across the degree. Every topic is learned by building something real, not by reading theory in isolation. Six tracks run in parallel; each one deepens year over year, and later projects deliberately reuse or rebuild earlier ones rather than starting from zero.
 
-> This roadmap is built on a typical Cyber Security B.Tech progression, not a copy of an official syllabus. If your college's actual course order differs, tell Claude and this file gets adjusted to match.
-
 **Stack across all 4 years:** VS Code, WSL (Ubuntu/Linux), Git/GitHub. Languages expand from Python-only in Year 1 to Python + C + Bash + SQL by Year 4.
 
 ---
