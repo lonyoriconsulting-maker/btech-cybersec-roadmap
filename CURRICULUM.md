@@ -10,7 +10,7 @@ A living map of project-based learning across the degree. Every topic is learned
 
 | Year | Focus | Flagship project |
 |---|---|---|
-| 1 | Python fundamentals, file I/O, regex, CLI tools | **SecuScan** — regex-based secret scanner *(current)* |
+| 1 | Python fundamentals, file I/O, regex, CLI tools | **SecuScan** — regex-based secret scanner ✅ |
 | 2 | C basics, memory model, scripting for automation | Rewrite SecuScan's scan engine in C; add multithreaded directory walking |
 | 3 | Secure coding practices, static analysis | Extend SecuScan with entropy-based key detection + `.gitignore`-aware skipping; package as a pip-installable CLI |
 | 4 | Software security engineering, CI/CD integration | SecuScan as a GitHub Action / pre-commit hook — real pipeline integration, config file support, false-positive tuning |
